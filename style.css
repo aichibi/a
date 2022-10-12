@@ -241,3 +241,11 @@ main {
 .pic1 {
   background-image: url(aichibi.jpg);
 }
+.maomao {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  background-image: url(maomao.gif);
+  background-size: cover;
+  z-index: 3;
+}
